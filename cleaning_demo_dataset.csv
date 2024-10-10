@@ -1,0 +1,333 @@
+ProductID,ProductName,CategoryName,Price,QuantitySold
+P0001,Product 1,Home & Kitchen,,61
+P0002,Product 2,Books,123.58,54
+P0003,Product 3,Electronics,76.72,39
+P0004,Product 4,Home & Kitchen,247.28,91
+P0005,Product 5, Home & Kitchen ,492.9,74
+P0006,Product 6,Books,,90
+P0007,Product 7,Electronics,337.71,19
+P0008,Product 8,Electronics,382,39
+P0009,Product 9,Home & Kitchen,122.63,67
+P0010,Product 10,Clothing,365.47,45
+P0011,Product 11,Home & Kitchen,187.05,13
+P0012, Product 12 ,Home & Kitchen,317.99,92
+P0013, Product 13 ,Home & Kitchen,318.6,58
+P0014, Product 14 ,Home & Kitchen,270.21,20
+P0015,Product 15,Books,49.69,92
+P0016,Product 16,,418.47,72
+P0017,Product 17, Books ,163.79,61
+P0018,Product 18, Books ,97.33,39
+P0019, Product 19 , Books ,25.18,1
+P0020,Product 20,Home & Kitchen,297.49,3
+P0021,Product 21,Clothing,340.39,77
+P0022,Product 22,,13.21,92
+P0023,Product 23, Clothing ,258.49,62
+P0024,Product 24,,117.12,63
+P0025,Product 25,Books,324.36,25
+P0026,Product 26,Clothing,91.31,56
+P0027,Product 27,Clothing,347.01,33
+P0028,Product 28,,,38
+P0029,Product 29,Books,468.68,6
+P0030, Product 30 , Books ,73.07,58
+P0031, Product 31 ,Electronics,173.83,44
+P0032,Product 32,Electronics,61.17,45
+P0033,Product 33,Books,462.72,32
+P0034,Product 34,Clothing,439.28,45
+P0035,Product 35, Clothing ,132.68,61
+P0036,Product 36,Electronics,331.69,47
+P0037, Product 37 ,Books,409.52,21
+P0038,Product 38, Electronics ,,80
+P0039, Product 39 ,Electronics,267.18,85
+P0040,Product 40,Home & Kitchen,124.72,75
+P0041,Product 41,Home & Kitchen,51.09,36
+P0042,Product 42,Home & Kitchen,449.12,99
+P0043, Product 43 ,Clothing,450.71,19
+P0044,Product 44,Books,318.39,20
+P0045,Product 45,Books,172.82,57
+P0046,Product 46,Books,177.86,18
+P0047,Product 47, Books ,364.35,47
+P0048,Product 48,,449.07,49
+P0049,Product 49,Clothing,444.11,14
+P0050,Product 50,,,15
+P0051,Product 51,Home & Kitchen,322.81,31
+P0052,Product 52,Clothing,,1
+P0053,Product 53,Home & Kitchen,85.01,54
+P0054,Product 54,Books,449.78,3
+P0055,Product 55,,305.18,16
+P0056,Product 56, Books ,9.55,87
+P0057,Product 57,,55.23,57
+P0058, Product 58 , Electronics ,2431.21,75
+P0059,Product 59,Home & Kitchen,7.51,12
+P0060,Product 60, Electronics ,84.6,74
+P0061,Product 61,Home & Kitchen,276.62,951
+P0062,Product 62,Home & Kitchen,347.49,16
+P0063,Product 63,Electronics,,72
+P0064,Product 64, Electronics ,116.01,76
+P0065,Product 65,Home & Kitchen,,24
+P0066,Product 66,Clothing,,28
+P0067,Product 67,Books,166.07,8
+P0068,Product 68,Electronics,374.51,92
+P0069,Product 69,Books,326.57,36
+P0070,Product 70, Clothing ,425.37,90
+P0071,Product 71, Clothing ,330.52,8
+P0072,Product 72,Clothing,286.31,58
+P0073, Product 73 , Electronics ,51.37,60
+P0074,Product 74,Clothing,187.02,50
+P0075,Product 75, Electronics ,136.28,28
+P0076,Product 76,Clothing,125.77,92
+P0077,Product 77,Books,486.64,41
+P0078,Product 78,Books,199.58,64
+P0079,Product 79, Home & Kitchen ,,27
+P0080,Product 80,Books,317.41,63
+P0081,Product 81,Home & Kitchen,398.43,17
+P0082,Product 82,,253.81,73
+P0083,Product 83,Electronics,1330.03,880
+P0084,Product 84,Books,248.8,84
+P0085, Product 85 ,Home & Kitchen,101.65,77
+P0086,Product 86,Home & Kitchen,362.61,92
+P0087,Product 87, Clothing ,143.98,29
+P0088, Product 88 ,Electronics,4909.87,13
+P0089,Product 89,Books,324.51,46
+P0090,Product 90,Clothing,92.67,35
+P0091,Product 91, Books ,470.53,6
+P0092, Product 92 ,,477.19,82
+P0093,Product 93, Clothing ,457.86,69
+P0094,Product 94,Clothing,188.23,47
+P0095,Product 95,Clothing,12.65,995
+P0096, Product 96 ,Clothing,464.52,66
+P0097,Product 97,Clothing,216.95,10
+P0098,Product 98, Books ,483.49,56
+P0099,Product 99,Clothing,481.99,30
+P0100,Product 100,Electronics,427.24,5
+P0101,Product 101,Home & Kitchen,150.75,33
+P0102, Product 102 , Clothing ,195.62,65
+P0103,Product 103,Clothing,426.31,18
+P0104,Product 104,Books,161.88,96
+P0105,Product 105,Clothing,88.9,49
+P0106, Product 106 , Clothing ,280.62,11
+P0107,Product 107,Clothing,468.4,85
+P0108,Product 108,,349.53,26
+P0109, Product 109 ,Clothing,287.18,63
+P0110, Product 110 ,Home & Kitchen,53.1,89
+P0111, Product 111 ,Books,309.43,86
+P0112, Product 112 ,Home & Kitchen,495.08,59
+P0113,Product 113,Books,74.34,27
+P0114,Product 114,Clothing,261.57,49
+P0115,Product 115,Home & Kitchen,439.3,77
+P0116, Product 116 ,Books,371.68,33
+P0117,Product 117, Electronics ,350.02,98
+P0118,Product 118,Clothing,352.73,99
+P0119,Product 119, Books ,182.95,1
+P0120,Product 120,Electronics,150.33,21
+P0121,Product 121,Books,405.63,55
+P0122, Product 122 ,Electronics,406.01,6
+P0123, Product 123 ,Clothing,434.2,92
+P0124,Product 124,Home & Kitchen,,81
+P0125,Product 125,Electronics,258.11,69
+P0126,Product 126,Books,253.25,95
+P0127,Product 127, Clothing ,400.16,5
+P0128, Product 128 ,Electronics,326.73,3
+P0129,Product 129,,352.47,53
+P0130,Product 130, Books ,398.92,23
+P0131, Product 131 ,Books,445.55,53
+P0132,Product 132,Electronics,172.31,37
+P0133,Product 133,Electronics,190.91,74
+P0134,Product 134,Electronics,51.52,74
+P0135,Product 135,Home & Kitchen,,833
+P0136,Product 136,Electronics,22.79,17
+P0137,Product 137,Electronics,235.47,85
+P0138,Product 138,Electronics,273.61,78
+P0139, Product 139 ,Home & Kitchen,146.84,73
+P0140,Product 140, Electronics ,297.46,1
+P0141,Product 141, Books ,20.1,51
+P0142,Product 142,Electronics,23.49,45
+P0143,Product 143,Books,412.19,77
+P0144,Product 144,,183.29,4
+P0145,Product 145,Books,67.89,62
+P0146,Product 146,Home & Kitchen,263.51,65
+P0147, Product 147 , Home & Kitchen ,386.15,32
+P0148,Product 148,Home & Kitchen,111.83,34
+P0149,Product 149,,313.33,92
+P0150, Product 150 ,Books,47.25,95
+P0151,Product 151,Home & Kitchen,30.58,72
+P0152,Product 152,Home & Kitchen,268.02,39
+P0153,Product 153,Electronics,272.61,26
+P0154,Product 154, Home & Kitchen ,320.53,34
+P0155,Product 155,Electronics,364.42,54
+P0156,Product 156,Clothing,488.05,3
+P0157,Product 157, Home & Kitchen ,260.57,50
+P0158,Product 158,Clothing,164.86,12
+P0159,Product 159,Electronics,398.62,65
+P0160,Product 160,Books,,54
+P0161,Product 161,Home & Kitchen,222.29,5
+P0162,Product 162, Electronics ,43.84,94
+P0163,Product 163,Books,,94
+P0164, Product 164 , Books ,,57
+P0165,Product 165,Clothing,418.81,17
+P0166,Product 166, Electronics ,349.51,47
+P0167,Product 167,,207.43,23
+P0168,Product 168,Home & Kitchen,90.78,79
+P0169, Product 169 , Home & Kitchen ,82.44,85
+P0170, Product 170 ,Clothing,128.87,14
+P0171,Product 171, Books ,276.87,66
+P0172,Product 172,Electronics,358.72,75
+P0173,Product 173,Home & Kitchen,,51
+P0174, Product 174 , Books ,143.57,38
+P0175,Product 175,Books,477.66,64
+P0176,Product 176, Clothing ,370.26,98
+P0177,Product 177,Home & Kitchen,279.41,38
+P0178,Product 178,Home & Kitchen,307.8,50
+P0179,Product 179,Electronics,212.7,98
+P0180,Product 180,Home & Kitchen,127.63,82
+P0181,Product 181,Electronics,181.21,30
+P0182,Product 182,Home & Kitchen,380.13,79
+P0183,Product 183,Clothing,12.12,91
+P0184,Product 184,Home & Kitchen,,51
+P0185,Product 185,Electronics,,63
+P0186,Product 186,Electronics,25.16,98
+P0187,Product 187,Clothing,428.45,52
+P0188,Product 188,Home & Kitchen,353.31,38
+P0189,Product 189,Home & Kitchen,239.72,97
+P0190,Product 190, Clothing ,53.43,88
+P0191,Product 191, Home & Kitchen ,248.35,79
+P0192,Product 192,Home & Kitchen,239.37,30
+P0193, Product 193 ,,90.73,51
+P0194,Product 194,Home & Kitchen,219.76,81
+P0195, Product 195 , Home & Kitchen ,202.26,5
+P0196,Product 196,Clothing,309.85,29
+P0197,Product 197,Clothing,319.37,4
+P0198,Product 198,Books,27.43,10
+P0199,Product 199,,190.43,56
+P0200,Product 200,Home & Kitchen,314.8,17
+P0201,Product 201,Home & Kitchen,254.05,74
+P0202,Product 202,Books,428.96,17
+P0203,Product 203, Home & Kitchen ,331.05,84
+P0204,Product 204, Electronics ,85.65,88
+P0205,Product 205,Books,39.93,69
+P0206,Product 206,Electronics,323,34
+P0207,Product 207, Books ,18.12,6
+P0208,Product 208,Books,294.96,53
+P0209,Product 209,Clothing,470.41,66
+P0210,Product 210,Electronics,289.86,77
+P0211,Product 211, Home & Kitchen ,197.14,43
+P0212, Product 212 ,Home & Kitchen,323.43,75
+P0213, Product 213 , Electronics ,231.84,23
+P0214,Product 214, Home & Kitchen ,275.08,55
+P0215,Product 215,,471.03,80
+P0216,Product 216,,196.12,95
+P0217,Product 217,Books,480.79,75
+P0218,Product 218,Electronics,,16
+P0219,Product 219,,101.92,8
+P0220, Product 220 ,Home & Kitchen,39.33,4
+P0221,Product 221,Home & Kitchen,54.89,4
+P0222,Product 222,Home & Kitchen,14.02,56
+P0223,Product 223,Clothing,51.75,25
+P0224,Product 224,,,67
+P0225,Product 225,Clothing,,96
+P0226,Product 226, Clothing ,,67
+P0227,Product 227,Electronics,423.21,27
+P0228,Product 228,Clothing,16.52,93
+P0229, Product 229 ,Electronics,408.16,32
+P0230,Product 230,Electronics,144.52,50
+P0231,Product 231,Clothing,63.49,61
+P0232,Product 232,Books,,51
+P0233, Product 233 ,Books,,19
+P0234,Product 234,Books,439.35,21
+P0235,Product 235,Books,368.86,5
+P0236, Product 236 ,Books,402.72,82
+P0237, Product 237 ,,144.61,92
+P0238,Product 238,,92.83,42
+P0239, Product 239 ,,376.55,61
+P0240,Product 240,Books,404.38,22
+P0241,Product 241, Clothing ,4298.06,21
+P0242,Product 242,Home & Kitchen,209.25,70
+P0243,Product 243,Books,189.15,1
+P0244,Product 244,Electronics,389.32,5
+P0245,Product 245,,173.7,12
+P0246,Product 246,Clothing,465.72,90
+P0247,Product 247,Electronics,429.91,46
+P0248,Product 248,Electronics,217.35,34
+P0249,Product 249,Electronics,376.68,49
+P0250,Product 250,Home & Kitchen,378.5,78
+P0251,Product 251,Clothing,56.05,90
+P0252,Product 252,Electronics,451.76,45
+P0253,Product 253,Books,255.1,27
+P0254, Product 254 , Electronics ,414.1,73
+P0255,Product 255,Electronics,163.42,26
+P0256,Product 256,Home & Kitchen,448.28,47
+P0257,Product 257,,197.65,86
+P0258,Product 258,Clothing,10.36,56
+P0259,Product 259,Books,453.16,94
+P0260, Product 260 ,Home & Kitchen,50.19,63
+P0261,Product 261,Electronics,163.06,48
+P0262,Product 262,Clothing,,61
+P0263,Product 263,,,81
+P0264,Product 264,Electronics,288.85,26
+P0265,Product 265,Home & Kitchen,4530.13,36
+P0266,Product 266,,226.98,1
+P0267,Product 267,Books,150.14,8
+P0268,Product 268,Books,167.69,99
+P0269,Product 269,Home & Kitchen,337.9,52
+P0270, Product 270 ,Home & Kitchen,377.43,79
+P0271,Product 271, Clothing ,,47
+P0272,Product 272,,,56
+P0273,Product 273,Books,50.15,86
+P0274,Product 274,Books,249.74,14
+P0275, Product 275 ,Electronics,33.49,90
+P0276,Product 276, Books ,277.02,28
+P0277,Product 277,Electronics,223.56,87
+P0278, Product 278 ,Clothing,,78
+P0279,Product 279,Electronics,178.7,88
+P0280, Product 280 ,Clothing,62.95,2
+P0281,Product 281,Books,,26
+P0282,Product 282,Books,381.95,14
+P0283,Product 283, Clothing ,311.02,872
+P0284,Product 284,Home & Kitchen,55.06,56
+P0285, Product 285 ,Clothing,46.63,7
+P0286,Product 286, Home & Kitchen ,351.98,3
+P0287,Product 287,Electronics,41.02,23
+P0288,Product 288,Electronics,411.82,18
+P0289,Product 289,Electronics,354.59,38
+P0290,Product 290,Books,45.27,99
+P0291, Product 291 ,Electronics,46.99,15
+P0292,Product 292,,493.39,64
+P0293,Product 293, Electronics ,190.26,89
+P0294,Product 294,Clothing,2288.38,28
+P0295,Product 295,Clothing,407.34,74
+P0296,Product 296,Books,473.89,39
+P0297,Product 297, Clothing ,493.07,57
+P0298, Product 298 , Home & Kitchen ,377.92,551
+P0299,Product 299, Electronics ,191.25,86
+P0300,Product 300,Books,46.33,90
+P0016,Product 16,,418.47,72
+P0055, Product 55 ,,305.18,16
+P0234,Product 234,Books,439.35,21
+P0190,Product 190,Clothing,53.43,88
+P0010,Product 10,Clothing,365.47,45
+P0271,Product 271,Clothing,,47
+P0201,Product 201,Home & Kitchen,254.05,74
+P0230,Product 230,Electronics,144.52,50
+P0130,Product 130,Books,398.92,23
+P0112,Product 112,Home & Kitchen,495.08,59
+P0117, Product 117 ,Electronics,350.02,98
+P0126, Product 126 ,Books,253.25,95
+P0174,Product 174,Books,143.57,38
+P0200,Product 200,Home & Kitchen,314.8,17
+P0175,Product 175,Books,477.66,64
+P0010,Product 10,Clothing,365.47,45
+P0011,Product 11,Home & Kitchen,187.05,13
+P0291, Product 291 ,Electronics,46.99,15
+P0292,Product 292,,493.39,64
+P0260, Product 260 ,Home & Kitchen,50.19,63
+P0261,Product 261,Electronics,163.06,48
+P0262,Product 262,Clothing,,61
+P0263,Product 263,,,81
+P0264,Product 264,Electronics,288.85,26
+P0101,Product 101,Home & Kitchen,150.75,33
+P0102, Product 102 , Clothing ,195.62,65
+P0103,Product 103,Clothing,426.31,18
+P0104,Product 104,Books,161.88,96
+P0105,Product 105,Clothing,88.9,49
+P0106, Product 106 , Clothing ,280.62,11
+P0107,Product 107,Clothing,468.4,85
+P0108,Product 108,,349.53,26
